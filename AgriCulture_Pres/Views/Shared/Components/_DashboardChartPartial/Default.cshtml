@@ -1,0 +1,54 @@
+﻿@{
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col-md-7 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <!DOCTYPE html>
+                <html>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+                <body>
+
+                    <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+                    <script>
+                        var xValues = ["@ViewBag.vName0", "@ViewBag.vName1", "@ViewBag.vName2", "@ViewBag.vName3", "@ViewBag.vName4", "@ViewBag.vName5", "@ViewBag.vName6","@ViewBag.vName7"];
+                        var yValues = [@ViewBag.vAmount0, @ViewBag.vAmount1, @ViewBag.vAmount2, @ViewBag.vAmount3, @ViewBag.vAmount4, @ViewBag.vAmount5, @ViewBag.vAmount6, @ViewBag.vAmount7];
+                        var barColors = [
+                            "#b91d47",
+                            "#00aba9",
+                            "#2b5797",
+                            "#e8c3b9",
+                            "#1e7145",
+                            " #FFC300 ",
+                            " #5d6d7e ",
+                            " #CCCCFF "
+                        ];
+
+                        new Chart("myChart", {
+                            type: "pie",
+                            data: {
+                                labels: xValues,
+                                datasets: [{
+                                    backgroundColor: barColors,
+                                    data: yValues
+                                }]
+                            },
+                            options: {
+                                title: {
+                                    display: true,
+                                    text: "Crops in @DateTime.Now.Year.ToString()"
+                                }
+                            }
+                        });
+                    </script>
+
+                </body>
+            </html>
+
+            </div>
+        </div>
+    </div>
+</div>

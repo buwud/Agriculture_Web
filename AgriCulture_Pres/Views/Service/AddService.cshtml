@@ -1,0 +1,33 @@
+﻿@model AgriCulture_Pres.Models.ServiceAddViewModel
+
+@{
+    ViewData["Title"] = "AddService";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Service Registration Page</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    <label class="control-label">Title</label>
+                    <input type="text" class="form-control" name="Title" asp-for="Title">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label"></label>
+                    <input type="text" class="form-control" name="Image" asp-for="Image">
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label">Description</label>
+                    <input type="text" class="form-control" name="Description" asp-for="Description">
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+                <button class="btn btn-primary btn-block">Save</button>
+            </form>
+        </div>
+    </div>
+</div>

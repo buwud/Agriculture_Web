@@ -1,0 +1,27 @@
+﻿@model EntityLayer.Concrete.Crop
+
+@{
+    ViewData["Title"] = "AddCrop";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Crop Registration Page</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    <label class="control-label">Name</label>
+                    <input type="text" class="form-control" asp-for="cropname">
+                    <span asp-validation-for="cropname" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Amount</label>
+                    <input type="number" class="form-control" asp-for="cropnum">
+                    <span asp-validation-for="cropnum" class="text-danger"></span>
+                </div>
+                <button class="btn btn-primary btn-block">Save</button>
+            </form>
+        </div>
+    </div>
+</div>

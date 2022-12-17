@@ -1,0 +1,1157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AgriCulture_Pres.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AgriCulture_Pres.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\.gitignore",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\LICENSE",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\README.md",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\preview.png",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\documentation\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\documentation\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\gulpfile.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\index.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\chart.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\template.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\package-lock.json",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\package.json",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\MajesticAdmin-Free-Bootstrap-Admin-Template-master\\template\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\snow-login-form-starter\\css\\style.css",
+      "PackagePath": "staticwebassets\\snow-login-form-starter\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\snow-login-form-starter\\images\\bgimage.jpg",
+      "PackagePath": "staticwebassets\\snow-login-form-starter\\images\\bgimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\snow-login-form-starter\\index.html",
+      "PackagePath": "staticwebassets\\snow-login-form-starter\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\snow-login-form-starter\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\snow-login-form-starter\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\css\\chocolat.css",
+      "PackagePath": "staticwebassets\\web\\css\\chocolat.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\css\\common.css",
+      "PackagePath": "staticwebassets\\web\\css\\common.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\web\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\arr.png",
+      "PackagePath": "staticwebassets\\web\\images\\arr.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\web\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\c1.png",
+      "PackagePath": "staticwebassets\\web\\images\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\c2.png",
+      "PackagePath": "staticwebassets\\web\\images\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\c3.png",
+      "PackagePath": "staticwebassets\\web\\images\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\close.png",
+      "PackagePath": "staticwebassets\\web\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g10.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g12.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\left1.png",
+      "PackagePath": "staticwebassets\\web\\images\\left1.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\right1.png",
+      "PackagePath": "staticwebassets\\web\\images\\right1.png"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\bootstrap-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\easing.js",
+      "PackagePath": "staticwebassets\\web\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\easy-responsive-tabs.js",
+      "PackagePath": "staticwebassets\\web\\js\\easy-responsive-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\jquery.chocolat.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.chocolat.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\jquery.picEyes.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.picEyes.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\main.js",
+      "PackagePath": "staticwebassets\\web\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\web\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yeolb\\Desktop\\AgriCulture_Pres\\AgriCulture_Pres\\wwwroot\\web\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AgriCulture_Pres.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AgriCulture_Pres.props",
+      "PackagePath": "build\\AgriCulture_Pres.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AgriCulture_Pres.props",
+      "PackagePath": "buildMultiTargeting\\AgriCulture_Pres.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AgriCulture_Pres.props",
+      "PackagePath": "buildTransitive\\AgriCulture_Pres.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

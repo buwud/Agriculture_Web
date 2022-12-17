@@ -1,0 +1,25 @@
+﻿@model EntityLayer.Concrete.Announcement
+
+@{
+    ViewData["Title"] = "AddAnnouncement";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">New Announcement Entry</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    <label class="control-label">Title</label>
+                    <input type="text" class="form-control" name="Title" asp-for="Title">
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Description</label>
+                    <textarea cols="30" rows="5" asp-for="Description" class="form-control" placeholder="enter description"></textarea>
+                </div>
+                <button class="btn btn-primary btn-block">Save</button>
+            </form>
+        </div>
+    </div>
+</div>

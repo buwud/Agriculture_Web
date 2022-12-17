@@ -1,0 +1,69 @@
+﻿@model AgriCulture_Pres.Models.LoginViewModel
+@{
+    Layout = null;
+}
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+-->
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+	<title>Sign In!</title>
+
+	<!-- Meta tags -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	<!-- Style -->
+	<link rel="stylesheet" href="~/snow-login-form-starter/css/style.css" type="text/css" media="all" />
+</head>
+
+<body>
+	<!-- login form -->
+	<section class="w3l-login">
+		<div class="overlay">
+			<div class="wrapper">
+				<div class="logo">
+					<a class="brand-logo" href="index.html"></a>
+				</div>
+				<div class="form-section">
+					<h3>Login</h3>
+					<h6>To continue with Us</h6>
+					<form method="post" class="signin-form">
+						<div class="form-input">
+							<input type="text" asp-for="Username" placeholder="Username">
+							<span asp-validation-for="Username" class="alert-warning"></span>
+						</div>
+						<div class="form-input">
+							<input type="password" asp-for="Password" placeholder="Password">
+							<span asp-validation-for="Password" class="alert-warning"></span>
+						</div>
+						<label class="check-remaind">
+							<input type="checkbox">
+							<span class="checkmark"></span>
+							<p class="remember">Remember me</p>
+						</label>
+						<button type="submit" class="btn btn-primary theme-button mt-4">Log in</button>
+						<div class="new-signup">
+							<a href="#reload" class="signuplink">Forgot username or password?</a>
+						</div>
+					</form>
+					<p class="signup">Don’t have account yet? <a href="/Login/SignUp/" class="signuplink">Sign Up</a></p>
+				</div>
+			</div>
+		</div>
+		<div id='stars'></div>
+		<div id='stars2'></div>
+		<div id='stars3'></div>
+
+		<div class="copy-right">
+			<p>&copy; @DateTime.Now.Year All rights reserved</p>
+		</div>
+	</section>
+</body>
+
+</html>

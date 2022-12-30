@@ -9,3 +9,5 @@ My Website Application made with C# .NET Core, MS SQL server, templates for fron
 --> ASP.NET Identity - User Management Library 
 
 --> Object Oriented Programming Aspects
+
+--> Used Free Templates for frontend parts 

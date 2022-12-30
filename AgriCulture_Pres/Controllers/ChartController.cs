@@ -22,7 +22,6 @@ namespace AgriCulture_Pres.Controllers
         {
             List<Crop> CropClass = _cropService.GetListAll();
                 
-
             return Json(new { jsonlist = CropClass });
         }
     }

@@ -1,6 +1,4 @@
-﻿@using EntityLayer.Concrete
-@model List<About>
-
+﻿
 <div class="about" id="about">
 	<div class="container">
 		<h3 class="tittle">About Us</h3>
@@ -11,26 +9,24 @@
 				<li>About us</li>
 				<li>Our clients </li>
 			</ul>
-			@foreach(var item in Model){
 			<div class="resp-tabs-container">
 				<div class="tab1">
-					<p class="para-w3-agileits">@item.AboutHistory</p>
+					<p class="para-w3-agileits">@ViewBag.aboutUs</p>
 				</div>
 				<div class="tab2">
-					<p class="para-w3-agileits">@item.AboutUs</p>
+					<p class="para-w3-agileits">@ViewBag.aboutHistory</p>
 				</div>
 				<div class="tab3">
-					<div class="clients">
+					<div class="clients">	
+					@foreach (var item1 in ViewBag.teams)
+					{
 						<ul>
-							<li><img src="images/c1.png" alt="clients" class="img-responsive" /><span>Sean Damon</span></li>
-							<li><img src="images/c2.png" alt="clients" class="img-responsive" /><span>Natalie Barnes</span></li>
-							<li><img src="images/c3.png" alt="clients" class="img-responsive" /><span>John Mccoist</span></li>
-
+							<li><img src="@item1.ImageUrl" alt="clients" class="img-responsive" /><span>@item1.Name</span></li>
 						</ul>
+					}
 					</div>
 				</div>
 			</div>
-			}
 		</div>
 	</div>
 </div>

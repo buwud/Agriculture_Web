@@ -1,0 +1,15 @@
+﻿@using EntityLayer.Concrete
+@model List<Team>
+
+<div class="tab3">
+	<div class="clients">
+		@foreach(var item in Model)
+		{
+		<ul>
+			<li><img src="@item.ImageUrl" alt="clients" class="img-responsive" /><span>@item.Name</span></li>
+			<li><img src="@item.ImageUrl" alt="clients" class="img-responsive" /><span>@item.Name</span></li>
+			<li><img src="@item.ImageUrl" alt="clients" class="img-responsive" /><span>@item.Name</span></li>
+		</ul>
+		}
+	</div>
+</div>

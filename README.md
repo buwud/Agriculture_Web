@@ -10,4 +10,8 @@ My Website Application made with C# .NET Core, MS SQL server, templates for fron
 
 --> Object Oriented Programming Aspects
 
+--> Repository Design Pattern
+
+--> Model- View- Controller
+
 --> Used Free Templates for frontend parts 

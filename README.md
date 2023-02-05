@@ -13,3 +13,5 @@ It's a website application about agriculture that includes an admin side and an 
 --> Model- View- Controller
 
 --> Used Free Templates for frontend parts 
+
+ My short trailer video -> https://youtu.be/DmCD2_3EX1s

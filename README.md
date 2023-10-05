@@ -15,7 +15,8 @@ It's a website application about agriculture that includes an admin side and an 
 --> Used Free Templates for frontend parts 
 
  My short trailer video -> https://youtu.be/DmCD2_3EX1s
-
+ 
+![Ekran görüntüsü 2023-10-05 225433](https://github.com/BuseDuran/Agriculture_Web/assets/91667950/757110a5-9bb5-468e-8007-87226e7653ab)
 ![1](https://github.com/BuseDuran/Agriculture_Web/assets/91667950/84adec37-4beb-4cfe-9b97-fd90fec13513)
 ![2](https://github.com/BuseDuran/Agriculture_Web/assets/91667950/df2f3f68-ed3f-47fd-b984-48062dab0413)
 ![4](https://github.com/BuseDuran/Agriculture_Web/assets/91667950/28812cd5-7c4a-49ef-9462-944fccbd3950)
